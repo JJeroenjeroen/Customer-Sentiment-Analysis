@@ -1,0 +1,3474 @@
+[
+{
+"Name": "segment_1550247479729.27_file_00090",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00090.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00090",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00091",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00091.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00091",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00092",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00092.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00092",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00093",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00093.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00093",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00094",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00094.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00094",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00095",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00095.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00095",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00096",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00096.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00096",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00097",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00097.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00097",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00098",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00098.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00098",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00099",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00099.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00099",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00100",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00100.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00100",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00101",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00101.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00101",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00102",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00102.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00102",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00103",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00103.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00103",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00104",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00104.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00104",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00105",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00105.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00105",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00106",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00106.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00106",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00107",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00107.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00107",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00108",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00108.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00108",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00109",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00109.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00109",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00110",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00110.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00110",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00111",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00111.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00111",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00112",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00112.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00112",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00113",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00113.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00113",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00114",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00114.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00114",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00115",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00115.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00115",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00138",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00138.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00138",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00139",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00139.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00139",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00140",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00140.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00140",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00141",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00141.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00141",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00142",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00142.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00142",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00143",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00143.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00143",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00144",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00144.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00144",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00145",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00145.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00145",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00146",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00146.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00146",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00147",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00147.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00147",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00136",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00136.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00136",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00137",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00137.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00137",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00148",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00148.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00148",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00149",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00149.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00149",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00150",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00150.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00150",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00151",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00151.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00151",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00152",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00152.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00152",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00153",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00153.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00153",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00154",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00154.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00154",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00155",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00155.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00155",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00156",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00156.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00156",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00157",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00157.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00157",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00158",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00158.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00158",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00159",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00159.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00159",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00160",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00160.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00160",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00161",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00161.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00161",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00162",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00162.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00162",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00163",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00163.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00163",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00164",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00164.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00164",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00165",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00165.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00165",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00166",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00166.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00166",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00167",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00167.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00167",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00168",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00168.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00168",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00169",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00169.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00169",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00170",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00170.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00170",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00171",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00171.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00171",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00172",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00172.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00172",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00173",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00173.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00173",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00174",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00174.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00174",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00175",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00175.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00175",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00176",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00176.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00176",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00177",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00177.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00177",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00178",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00178.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00178",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00179",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00179.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00179",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00180",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00180.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00180",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00181",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00181.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00181",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00182",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00182.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00182",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00183",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00183.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00183",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00184",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00184.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00184",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00185",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00185.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00185",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00186",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00186.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00186",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00187",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00187.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00187",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00188",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00188.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00188",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00189",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00189.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00189",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00190",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00190.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00190",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00191",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00191.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00191",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00192",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00192.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00192",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00193",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00193.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00193",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00194",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00194.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00194",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00195",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00195.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00195",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00196",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00196.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00196",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00197",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00197.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00197",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00198",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00198.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00198",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00199",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00199.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00199",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00200",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00200.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00200",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00201",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00201.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00201",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00202",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00202.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00202",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00203",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00203.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00203",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00204",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00204.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00204",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00205",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00205.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00205",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00206",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00206.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00206",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00207",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00207.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00207",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00208",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00208.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00208",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00219",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00219.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00219",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00220",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00220.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00220",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00221",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00221.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00221",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00222",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00222.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00222",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00223",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00223.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00223",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00224",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00224.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00224",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00225",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00225.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00225",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00226",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00226.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00226",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00227",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00227.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00227",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00228",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00228.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00228",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00229",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00229.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00229",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00230",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00230.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00230",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00231",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00231.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00231",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00232",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00232.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00232",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00233",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00233.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00233",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00234",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00234.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00234",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00235",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00235.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00235",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00236",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00236.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00236",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00237",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00237.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00237",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00238",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00238.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00238",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00239",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00239.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00239",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00240",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00240.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00240",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00241",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00241.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00241",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00242",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00242.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00242",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00243",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00243.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00243",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00244",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00244.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00244",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00245",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00245.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00245",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00246",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00246.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00246",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00247",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00247.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00247",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00248",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00248.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00248",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00249",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00249.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00249",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00250",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00250.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00250",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00251",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00251.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00251",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00252",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00252.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00252",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00253",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00253.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00253",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00254",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00254.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00254",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00255",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00255.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00255",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00256",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00256.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00256",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00257",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00257.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00257",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00258",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00258.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00258",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00259",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00259.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00259",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00260",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00260.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00260",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00261",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00261.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00261",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00262",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00262.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00262",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00263",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00263.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00263",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00264",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00264.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00264",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00265",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00265.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00265",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00266",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00266.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00266",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00267",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00267.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00267",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00268",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00268.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00268",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00269",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00269.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00269",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00270",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00270.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00270",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00271",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00271.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00271",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00272",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00272.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00272",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00273",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00273.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00273",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00274",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00274.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00274",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00275",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00275.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00275",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00276",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00276.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00276",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00277",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00277.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00277",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00278",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00278.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00278",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00279",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00279.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00279",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00280",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00280.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00280",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00281",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00281.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00281",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00282",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00282.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00282",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00283",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00283.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00283",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00284",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00284.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00284",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00285",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00285.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00285",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00286",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00286.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00286",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00287",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00287.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00287",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00288",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00288.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00288",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00289",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00289.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00289",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00290",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00290.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00290",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00291",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00291.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00291",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00292",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00292.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00292",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00293",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00293.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00293",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00294",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00294.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00294",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00295",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00295.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00295",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00296",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00296.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00296",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00297",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00297.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00297",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00298",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00298.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00298",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00299",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00299.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00299",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00300",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00300.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00300",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00301",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00301.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00301",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00302",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00302.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00302",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00303",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00303.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00303",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00304",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00304.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00304",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00305",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00305.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00305",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00306",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00306.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00306",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00307",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00307.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00307",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00308",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00308.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00308",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00309",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00309.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00309",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00310",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00310.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00310",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00311",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00311.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00311",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00312",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00312.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00312",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00313",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00313.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00313",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00314",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00314.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00314",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00315",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00315.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00315",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00316",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00316.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00316",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00317",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00317.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00317",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00318",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00318.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00318",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00319",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00319.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00319",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00320",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00320.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00320",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00321",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00321.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00321",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00322",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00322.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00322",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00323",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00323.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00323",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00324",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00324.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00324",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00325",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00325.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00325",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00326",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00326.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00326",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00327",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00327.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00327",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00328",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00328.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00328",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00329",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00329.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00329",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00330",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00330.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00330",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00331",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00331.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00331",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00332",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00332.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00332",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00333",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00333.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00333",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00334",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00334.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00334",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00335",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00335.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00335",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00336",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00336.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00336",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00337",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00337.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00337",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00338",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00338.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00338",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00339",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00339.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00339",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00340",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00340.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00340",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00341",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00341.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00341",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00342",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00342.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00342",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00343",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00343.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00343",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00344",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00344.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00344",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00345",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00345.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00345",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00346",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00346.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00346",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00347",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00347.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00347",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00348",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00348.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00348",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00349",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00349.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00349",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00350",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00350.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00350",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00351",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00351.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00351",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00352",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00352.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00352",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00353",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00353.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00353",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00354",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00354.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00354",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00355",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00355.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00355",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00356",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00356.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00356",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00357",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00357.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00357",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00358",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00358.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00358",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00359",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00359.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00359",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00360",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00360.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00360",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00361",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00361.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00361",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00362",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00362.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00362",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00363",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00363.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00363",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00364",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00364.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00364",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00365",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00365.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00365",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00366",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00366.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00366",
+"-inputformat", "TextInputFormat"
+]
+},
+{
+"Name": "segment_1550247479729.27_file_00367",
+"ActionOnFailure": "CONTINUE",
+"Jar": "/usr/lib/hadoop-mapreduce/hadoop-streaming.jar",
+"Args":
+[
+"-files", "s3://mapperandreducerscript1/Mapper.py,s3://mapperandreducerscript1/Reducer.py",
+"-mapper", "Mapper.py",
+"-reducer", "Reducer.py",
+"-input", "s3://commoncrawl/crawl-data/CC-MAIN-2019-09/segments/1550247479729.27/wet/CC-MAIN-20190216004609-20190216030609-00367.warc.wet.gz",
+"-output", "s3://awsubiqumoutput/bitchbitchbitch/1550247479729.27_00367",
+"-inputformat", "TextInputFormat"
+]
+}
+]
